@@ -1,0 +1,6 @@
+{
+  "name": "Binary Runner",
+  "description": "Load, inspect, configure, and execute compiled C++ ARM/x86 binaries and plugins on Android with an interactive terminal, ELF inspector, and file browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
